@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Jeff Judge (@jjudge)
 - ⚡ I’m the CTO of [Flash](https://www.flashparking.com/), a technology platform for parking + EV charging
 - 🌎 I live in Chicago, IL with my wife and five children
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me jeff@judge.io
