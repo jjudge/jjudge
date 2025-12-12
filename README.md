@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jeff Judge (@jjudge)
-- ⚡ I’m a technologist and entrepreneur
-- 🌎 I live in Chicago, IL with my wife and five children
+- 👋 Hi, I’m Jeff Judge
+- ⚡ I’m currently a fractional CTO
+- 🌎 I live in Chicago with my wife and five children
 - 📫 You can reach me jeff@judge.io
