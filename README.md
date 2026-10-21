@@ -1,4 +1,2 @@
 - 👋 Hi, I’m Jeff Judge
-- ⚡ I’m a fractional CTO & advisor
-- 🌎 I live in Chicago with my wife and five children
-- 📫 You can reach me jeff@judge.io
+- You can reach me at jeff@judge.io
