@@ -1,2 +1,3 @@
 - 👋 Hi, I’m Jeff Judge
-- You can reach me at jeff@judge.io
+- More about me: https://www.jeffjudge.com/
+- Email: jeff@judge.io
