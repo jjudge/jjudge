@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Jeff Judge
-- More about me: https://www.jeffjudge.com/
+- More about me: https://www.jeffjudge.com
 - Email: jeff@judge.io
